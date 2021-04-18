@@ -32,24 +32,24 @@ function App() {
         <PrivateRoute path='/booking'>
           <Dashboard/>
         </PrivateRoute>
-        <Route path='/manage'>
+        <PrivateRoute path='/manage'>
           <ManageProduct/>
-        </Route>
-        <Route path='/addService'>
+        </PrivateRoute>
+        <PrivateRoute path='/addService'>
           <AddService/>
-        </Route>
-        <Route path='/addAdmin'>
+        </PrivateRoute>
+        <PrivateRoute path='/addAdmin'>
           <AddAdmin/>
-        </Route>
-        <Route path='/bookinglist'>
+        </PrivateRoute>
+        <PrivateRoute path='/bookinglist'>
           <BookingList/>
-        </Route>
-        <Route path='/review'>
+        </PrivateRoute>
+        <PrivateRoute path='/review'>
           <Review/>
-        </Route>
-        <Route path='/orderList'>
+        </PrivateRoute>
+        <PrivateRoute path='/orderList'>
           <OrderList/>
-        </Route>
+        </PrivateRoute>
         <Route path='/login'>
           <Login/>
         </Route>

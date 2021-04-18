@@ -13,7 +13,7 @@ const Review = () => {
     }, [])
     return (
         <section style={{backgroundColor: '#F3DCCF'}} className="pb-5">
-            <h3 className="text-center my-5 pt-5">What our client <br /> are sayings </h3>
+            <h3 className="text-center my-5 pt-5 about-text">What our clients <br /> are saying </h3>
                 <Carousel
                     showArrows={true}
                     infiniteLoop={true}

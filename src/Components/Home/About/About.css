@@ -1,0 +1,11 @@
+.about-text p{
+    font-size: 1.5rem;
+    font-family: 'Niconne', cursive;
+}
+.about-text h2,h3{
+    font-family: 'Saira Condensed', sans-serif;
+    margin-bottom: 20px;
+}
+.about-text small{
+    font-size: 14px;
+}

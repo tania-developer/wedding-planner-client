@@ -11,7 +11,7 @@ const Footer = () => {
                     height="40"
                     className="d-inline-block align-top"
                 />{' '}
-            <span style={{fontSize:'25px'}}>wedding</span>
+           <h3 style={{display:'inline', fontFamily: "'Cinzel Decorative', cursive"}} className= 'logo-text'>Wedding</h3>
             </div>
             <p>2404 Redwood Ct, Auburn, WA 98092, USA</p>
             <p>(+1) 207 187 1989</p>

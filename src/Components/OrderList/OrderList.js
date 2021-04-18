@@ -33,7 +33,7 @@ const OrderList = () => {
                       <Card.Text>
                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus magni placeat, ipsum est temporibus in nihil tempora.
                       </Card.Text>
-                      <Button variant="primary">pendingS</Button>
+                      <Button variant="primary">pending</Button>
                     </Card.Body>
                   </Card>)
                 }

@@ -16,9 +16,9 @@ const Services = () => {
     }
     return (
         <section style={{backgroundColor: '#F3DCCF'}} className="container-fluid">
-            <div className="text-center pt-5">
-                <p>about us</p>
-                <h2>We plan every detail of <br/> your wedding</h2>
+            <div className="text-center pt-5 about-text">
+                <p>Services</p>
+                <h2>Everything we focus <br/>for full wedding service</h2>
                 <small>Lorem ipsum dolor sit amet consectetur adipisicing ipsum.<br/> Quasi,chitecto! Magnam nulla quod ulla  commodi consequatur.
                 </small>
             </div>

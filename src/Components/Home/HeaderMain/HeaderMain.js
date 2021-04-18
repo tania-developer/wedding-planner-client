@@ -8,7 +8,7 @@ const HeaderMain = () => {
             <div>
                 <img src={banner} className="main-img" style={{height:'600px'}}/>
             </div>
-            <div className="center">
+            <div className="center header-text">
                 <h2 className="text-center">Welcome to</h2>
                 <h1 className="text-center">Wedding Planner</h1>
                 <h2 className="text-center">Wedding Dream Comes True</h2>
