@@ -1,16 +1,16 @@
 # Wedding Service web app 
 
-=>This react project use server site node js
+=>This react project use server-side node js.
 
-=>Here service and testimonial section are dynamic
+=>Here service and testimonial section are dynamic.
 
-=>Login with firebase auth, email and google sign in method are apply
+=>Login with firebase auth, email and google sign in method are applied.
 
-=>Admin can add service and admin after login
+=>Admin can add service and admin after login.
 
-=>User car review and show it on home page
+=>User car review and show it on home page.
 
-=>Admin can manage services
+=>Admin can manage services.
 
 
 ## Live site link
