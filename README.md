@@ -1,10 +1,15 @@
 # Wedding Service web app 
 
 =>This react project use server site node js
+
 =>Here service and testimonial section are dynamic
+
 =>Login with firebase auth, email and google sign in method are apply
+
 =>Admin can add service and admin after login
+
 =>User car review and show it on home page
+
 =>Admin can manage services
 
 
