@@ -1,4 +1,4 @@
-# Wedding Service web app 
+# Wedding(wedding planner service website)
 
 =>This react project use server-side node js.
 
